@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658138209909",
+    "project_id": "chatapp-b9e09",
+    "storage_bucket": "chatapp-b9e09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658138209909:android:98aabcc17b4e4e7c18e23c",
+        "android_client_info": {
+          "package_name": "com.sneha.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658138209909-if5qef3ibg20m2i9brekcfo0sof0cqfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCovxp0NdrKUCdzOFRz4NQSmNB2pcxN4L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658138209909-if5qef3ibg20m2i9brekcfo0sof0cqfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
